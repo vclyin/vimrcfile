@@ -180,7 +180,7 @@ set nobackup
 set noswapfile
 
 "突出现实当前行列、高亮当前行列
-set cursorline
+" set cursorline
 hi cursorline guibg=NONE gui=underline
 " set cursorcolumn
 
